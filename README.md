@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, It's theOOwl (Pouria VafaeiSabzevar)</h1>
+
+# 👨‍💻 About Me :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theOOwl&show_icons=true&theme=dracula)
 
 <!--
