@@ -1,6 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, It's theOOwl (Pouria VafaeiSabzevar)</h1>
 
 # 👨‍💻 About Me :
+[![WebSite](https://img.shields.io/badge/WebSite-162451?style=for-the-badge)](https://pouriavafaei.ir)
+[![Github](https://img.shields.io/github/followers/theOOwl?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/theOOwl) 
+[![Profile Views](https://komarev.com/ghpvc/?username=theOOwl&&style=for-the-badge)](https://github.com/theOOwl) </br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theOOwl&show_icons=true&theme=dracula)
 
 <!--
