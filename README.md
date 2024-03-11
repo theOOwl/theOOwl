@@ -10,7 +10,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=theOOwl&&style=for-the-badge)](https://github.com/theOOwl) </br>
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/PouriaVafaeiSabzevar)
 [![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18778965)
-[![Send Mail](https://img.shields.io/badge/taqinasiri@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:pouriavafaei.code@gmail.com)
+[![Send Mail](https://img.shields.io/badge/pouriavafaei.code@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:pouriavafaei.code@gmail.com)
 
 
 # 📊 GitHub Stats:
